@@ -1,6 +1,6 @@
 Welcome to my profile!
 
-Hey, my name is Efe. I'm a young front-end developer. Beside working in a tech company i'am currently creating content for social media about coding! Check my instagram from link in my profile.
+Hey, my name is Efe. I'm a young front-end developer.
 
 #developer #developercommunity #frontend
 
